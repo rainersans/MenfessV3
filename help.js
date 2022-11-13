@@ -699,8 +699,8 @@ return`━━━❲ SIFABOT-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}pussy_jpg
 ┃▢ ${prefix}kemonomimi
 ┃▢ ${prefix}nsfw_avatar
- SifaBot 𝙈𝘿 2022-2023
-┗━━━━━━━━━━━━━━━━━━`
+┗━━━━━━━━━━━━━━━━━━
+ SifaBot 𝙈𝘿 2022-2023`
 }
 
 exports.rulesBot = () =>{
