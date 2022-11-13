@@ -6,8 +6,6 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
 return`━━━❲ SIFABOT-𝙈𝘿 ❳━━━
- ${ucapanWaktu} Lord ${namenya}
- Terimakasih Telah Menggunakan Bot Kami
 ┏━━━━━━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
