@@ -6,7 +6,9 @@ var monoSpace = '```'
 
 exports.listmenu = (sender,prefix,ad,namenya,premnya,usernya,romnya,tanggal,jam) => {
 return`━━━❲ SIFABOT-𝙈𝘿 ❳━━━
-┏━━━━━━━━━━━━━
+ ${ucapanWaktu} Lord ${namenya}
+ Terimakasih Telah Menggunakan Bot Kami
+┏━━━━━━━━━━━━━━━━━━
 ┣━( 𝗨𝗦𝗘𝗥 𝗜𝗡𝗙𝗢 )
 ┃▤ ID : @${sender.split('@')[0]}
 ┃▤ Nama : ${namenya}
@@ -699,7 +701,8 @@ return`━━━❲ SIFABOT-𝙈𝘿 ❳━━━
 ┃▢ ${prefix}pussy_jpg
 ┃▢ ${prefix}kemonomimi
 ┃▢ ${prefix}nsfw_avatar
-┗━━━━━━━━━━━━`
+ SifaBot 𝙈𝘿 2022-2023
+┗━━━━━━━━━━━━━━━━━━`
 }
 
 exports.rulesBot = () =>{
@@ -729,7 +732,7 @@ A/N: RAINER STORE
 
 *Payment Dana*
 Number: 089660847676
-A/N: RAINER OFFICIAL
+A/N: RAINER STORE
 
 ${monoSpace}Terimakasih untuk kamu yang sudah donasi untuk perkembangan bot ini ^_^${monoSpace}
 
